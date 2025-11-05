@@ -1,107 +1,25 @@
-[
-  {
-    "albumId": 1,
-    "id": 1,
-    "title": "accusamus beatae ad facilis cum similique qui sunt",
-    "url": "https://picsum.photos/600/600?random=1",
-    "thumbnailUrl": "https://picsum.photos/150/150?random=1"
-  },
-  {
-    "albumId": 1,
-    "id": 2,
-    "title": "reprehenderit est deserunt velit ipsam",
-    "url": "https://picsum.photos/600/600?random=2",
-    "thumbnailUrl": "https://picsum.photos/150/150?random=2"
-  },
-  {
-    "albumId": 1,
-    "id": 3,
-    "title": "officia porro iure quia iusto qui ipsa ut eaque",
-    "url": "https://picsum.photos/600/600?random=3",
-    "thumbnailUrl": "https://picsum.photos/150/150?random=3"
-  },
-  {
-    "albumId": 1,
-    "id": 4,
-    "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
-    "url": "https://picsum.photos/600/600?random=4",
-    "thumbnailUrl": "https://picsum.photos/150/150?random=4"
-  },
-  {
-    "albumId": 1,
-    "id": 5,
-    "title": "natus a reiciendis et a id nisi",
-    "url": "https://picsum.photos/600/600?random=5",
-    "thumbnailUrl": "https://picsum.photos/150/150?random=5"
-  },
-  {
-    "albumId": 2,
-    "id": 51,
-    "title": "non sunt voluptatem placeat consequuntur remy",
-    "url": "https://picsum.photos/600/600?random=51",
-    "thumbnailUrl": "https://picsum.photos/150/150?random=51"
-  },
-  {
-    "albumId": 2,
-    "id": 52,
-    "title": "eius eaque ex et inventore et in",
-    "url": "https://picsum.photos/600/600?random=52",
-    "thumbnailUrl": "https://picsum.photos/150/150?random=52"
-  },
-  {
-    "albumId": 2,
-    "id": 53,
-    "title": "soluta et harum est",
-    "url": "https://picsum.photos/600/600?random=53",
-    "thumbnailUrl": "https://picsum.photos/150/150?random=53"
-  },
-  {
-    "albumId": 2,
-    "id": 54,
-    "title": "qui non eaque omnis qui",
-    "url": "https://picsum.photos/600/600?random=54",
-    "thumbnailUrl": "https://picsum.photos/150/150?random=54"
-  },
-  {
-    "albumId": 2,
-    "id": 55,
-    "title": "aut est omnis adipisci et eaque",
-    "url": "https://picsum.photos/600/600?random=55",
-    "thumbnailUrl": "https://picsum.photos/150/150?random=55"
-  },
-  {
-    "albumId": 3,
-    "id": 101,
-    "title": "incidunt alias vel enim",
-    "url": "https://picsum.photos/600/600?random=101",
-    "thumbnailUrl": "https://picsum.photos/150/150?random=101"
-  },
-  {
-    "albumId": 3,
-    "id": 102,
-    "title": "eaque iste corporis tempora vero distinctio consequuntur",
-    "url": "https://picsum.photos/600/600?random=102",
-    "thumbnailUrl": "https://picsum.photos/150/150?random=102"
-  },
-  {
-    "albumId": 3,
-    "id": 103,
-    "title": "et eius laborem",
-    "url": "https://picsum.photos/600/600?random=103",
-    "thumbnailUrl": "https://picsum.photos/150/150?random=103"
-  },
-  {
-    "albumId": 3,
-    "id": 104,
-    "title": "et iusto ut sit modi",
-    "url": "https://picsum.photos/600/600?random=104",
-    "thumbnailUrl": "https://picsum.photos/150/150?random=104"
-  },
-  {
-    "albumId": 3,
-    "id": 105,
-    "title": "veritatis natus id",
-    "url": "https://picsum.photos/600/600?random=105",
-    "thumbnailUrl": "https://picsum.photos/150/150?random=105"
-  }
-]
+{
+  "photos": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "Montanhas ao amanhecer",
+      "thumbnailUrl": "https://picsum.photos/id/1015/200/200",
+      "url": "https://picsum.photos/id/1015/1024/768"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "Árvore solitária no campo",
+      "thumbnailUrl": "https://picsum.photos/id/102/200/200",
+      "url": "https://picsum.photos/id/102/1024/768"
+    },
+    {
+      "albumId": 2,
+      "id": 3,
+      "title": "Cidade à noite",
+      "thumbnailUrl": "https://picsum.photos/id/1011/200/200",
+      "url": "https://picsum.photos/id/1011/1024/768"
+    }
+  ]
+}
